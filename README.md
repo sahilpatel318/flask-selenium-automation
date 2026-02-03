@@ -63,7 +63,7 @@ python-selenium-qa-demo/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/avinav456/flask-selenium-automation.git
+git clone https://github.com/sahilpatel318/flask-selenium-automation.git
 cd flask-selenium-automation
 ```
 
@@ -147,4 +147,5 @@ DATABASE_URL=sqlite:///app.db
 ---
 
 ## 📜 License
-MIT License © 2025 Avinav 
+MIT License © 2025 Sahil 
+
